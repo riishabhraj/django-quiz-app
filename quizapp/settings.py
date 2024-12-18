@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-%hjat8@bf5d0j^aa_o&0n!h6c71s$c)-1j$li(=(0sj!&&&an('
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 # ALLOWED_HOSTS = ['quizapp-qgtlv8mjv-riishabhrajs-projects.vercel.app', '127.0.0.1', 'localhost']
 ALLOWED_HOSTS = ['*']
